@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sendstone new
+* source:	https://sketchfab.com/3d-models/sendstone-new-e08b92a466ed4f8180807b0fff2f98a4
+* author:	frostychaos144 (https://sketchfab.com/frostychaos144)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sendstone new" (https://sketchfab.com/3d-models/sendstone-new-e08b92a466ed4f8180807b0fff2f98a4) by frostychaos144 (https://sketchfab.com/frostychaos144) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
